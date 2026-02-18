@@ -1,0 +1,2 @@
+# A-Statistical-Study-on-Annual-Market-Price-Production-of-Egg-Milk-and-Meat-in-Kerala-using-R
+This project presents a comprehensive statistical analysis of the annual market price and production of eggs, milk, and meat in the state of Kerala, along with the study of influencing factors.  The study was conducted as part of an MSc Statistics (Data Analytics Specialization) internship at the Directorate of Animal Husbandry, Trivandrum
